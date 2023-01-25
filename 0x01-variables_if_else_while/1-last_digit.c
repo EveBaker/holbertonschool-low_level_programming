@@ -7,6 +7,7 @@
 /**
  * main - Prints a text according to number
  * Return - Always 0 (success)
+ *
  */
 
 int main(void)
