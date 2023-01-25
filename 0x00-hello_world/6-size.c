@@ -8,8 +8,8 @@ int main(void)
 {
 	int b;
 	long int c;
-    	long long int d;
-    	char a;
+	long long int d;
+	char a;
 	float f;
 
 	/* sizeof evaluates the size of a variable */
