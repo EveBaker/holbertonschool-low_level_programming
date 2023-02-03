@@ -14,4 +14,3 @@ int _isupper(int x)
 	}
 	return (0);
 }
-
