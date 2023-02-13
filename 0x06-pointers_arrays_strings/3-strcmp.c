@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
-* _strcmp - Compaires two strings to pointers.
+* _strcmp - Compares two strings to pointers.
 * @s1: string one.
 * @s2: string two.
 * Return: If str1 < str2. the negative diffrence of the first unmatched characters.
