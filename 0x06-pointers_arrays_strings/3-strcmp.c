@@ -2,9 +2,9 @@
 
 /**
 * _strcmp - Compares two strings to pointers.
-* @s1: string one.
-* @s2: string two.
-* Return: If str1 < str2. the negative diffrence of the first unmatched characters.
+* @s1: String one.
+* @s2: String two.
+* Return: If str1 < str2, the negative diffrence of the first unmatched characters.
 * If str1 == str2, 0.
 * If str1 > str2, the positive diffrence of the first unmatched characters.
 */
