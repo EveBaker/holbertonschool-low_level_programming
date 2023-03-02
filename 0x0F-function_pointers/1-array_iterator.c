@@ -5,7 +5,6 @@
 * @array: ...
 * @size: size of array 
 * @action: the action it takes
-*
 * Return: ...
 */
 
