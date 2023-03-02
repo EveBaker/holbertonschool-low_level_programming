@@ -7,7 +7,6 @@
 * @cmp: a pointer 
 * Return: 0 if false
 */
-
 int int_index(int *array, int size, int (*cmp)(int))
 
 {
