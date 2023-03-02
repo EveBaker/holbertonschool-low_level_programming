@@ -4,8 +4,7 @@
 * int_index - searches for integer
 * @array: an array
 * @size: size of array
-* @cmp: a pointer
-* 
+* @cmp: a pointer 
 * Return: 0 if false
 */
 
