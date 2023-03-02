@@ -4,7 +4,7 @@
 * int_index - index
 * @array: an array
 * @size: size of array
-* @cmp: ...
+* @cmp: cmp 
 * 
 * Return: nothing
 */
